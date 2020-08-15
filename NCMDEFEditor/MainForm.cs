@@ -8,6 +8,7 @@ namespace NCMDEFEditor
 {
     public partial class MainForm : RibbonForm
     {
+//Hello GitHub
         SectionsData sectionsData = new SectionsData();
         readonly CommandsOfSections commands = new CommandsOfSections();
         bool isNewFile = true;
@@ -263,6 +264,7 @@ namespace NCMDEFEditor
                     MainFormStatus("Close", "", "");
             }            
         }
+//Bye GutHub
         private void SaveFile_Click(object sender, EventArgs e)
         {
             SaveFile saveFile = new SaveFile(sectionsData, fileName, isNewFile);
