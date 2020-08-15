@@ -1,0 +1,303 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="commentString1" xml:space="preserve">
+    <value>In the file in the "</value>
+  </data>
+  <data name="commentString2" xml:space="preserve">
+    <value>" found a comment - "</value>
+  </data>
+  <data name="commentString3" xml:space="preserve">
+    <value>The program will skip this line!</value>
+  </data>
+  <data name="errorBeginSectionInEndFileSectionFunctionDefinition" xml:space="preserve">
+    <value>The beginning of the "Section Function Definition" is at the end of the file.</value>
+  </data>
+  <data name="errorBeginSectionInEndFileSectionGeneral" xml:space="preserve">
+    <value>The beginning of the "Section General" is at the end of the file.</value>
+  </data>
+  <data name="errorBeginSectionInEndFileSectionMiscFunctionDefinition" xml:space="preserve">
+    <value>The beginning of the "Section Misc Function Definition" is at the end of the file.</value>
+  </data>
+  <data name="errorBeginSectionInEndFileSectionOthers" xml:space="preserve">
+    <value>The beginning of the "Section Others" is at the end of the file.</value>
+  </data>
+  <data name="errorBeginSectionInEndFileSectionWordDefinition" xml:space="preserve">
+    <value>The beginning of the "Section Word Definition" is at the end of the file.</value>
+  </data>
+  <data name="errorBeginSectionInEndFileSectionWordReplacement" xml:space="preserve">
+    <value>The beginning of the "Section Word Replacement" is at the end of the file.</value>
+  </data>
+  <data name="errorEndSectionNotFound" xml:space="preserve">
+    <value>Could not find "end section".</value>
+  </data>
+  <data name="errorFileString" xml:space="preserve">
+    <value>Inside "</value>
+  </data>
+  <data name="errorFileStringSectionFunctionDefinition" xml:space="preserve">
+    <value>" detected "Section Function Definition".</value>
+  </data>
+  <data name="errorFileStringSectionGeneral" xml:space="preserve">
+    <value>" detected "Section General".</value>
+  </data>
+  <data name="errorFileStringSectionMiscFunctionDefinition" xml:space="preserve">
+    <value>" detected "Section Misc Function Definition".</value>
+  </data>
+  <data name="errorFileStringSectionOthers" xml:space="preserve">
+    <value>" detected "Section Others".</value>
+  </data>
+  <data name="errorFileStringSectionWordDefinition" xml:space="preserve">
+    <value>" detected "Section Word Definition".</value>
+  </data>
+  <data name="errorFileStringSectionWordReplacement" xml:space="preserve">
+    <value>" detected "Section Word Replacement".</value>
+  </data>
+  <data name="errorHeader" xml:space="preserve">
+    <value>Error</value>
+  </data>
+  <data name="IncorrentFile" xml:space="preserve">
+    <value>File created incorrectly.</value>
+  </data>
+  <data name="infoHeader" xml:space="preserve">
+    <value>Information</value>
+  </data>
+  <data name="readingIsImpossible" xml:space="preserve">
+    <value>Reading is impossible!</value>
+  </data>
+  <data name="sectionFunctionDefinitionNotFound" xml:space="preserve">
+    <value>Could not find "Section Function Definition" in this file!</value>
+  </data>
+  <data name="sectionGeneralNotFound" xml:space="preserve">
+    <value>Could not find "Section General" in this file!</value>
+  </data>
+  <data name="sectionMiscFunctionDefinitionNotFound" xml:space="preserve">
+    <value>Could not find "Section Misc Function Definition" in this file!</value>
+  </data>
+  <data name="sectionOthersNotFound" xml:space="preserve">
+    <value>Could not find "Section Others" in this file!</value>
+  </data>
+  <data name="sectionWordDefinitionNotFound" xml:space="preserve">
+    <value>Could not find "Section Word Definition" in this file!</value>
+  </data>
+  <data name="sectionWordReplacementNotFound" xml:space="preserve">
+    <value>Could not find "Section Word Replacement" in this file!</value>
+  </data>
+  <data name="saveFileText" xml:space="preserve">
+    <value>Save file - </value>
+  </data>
+  <data name="saveFileTitle" xml:space="preserve">
+    <value>Save current file?</value>
+  </data>
+  <data name="cmdFileCommentString1" xml:space="preserve">
+    <value>In the command list file in the "</value>
+  </data>
+  <data name="cmdFileErrorBeginSectionXInEnd1" xml:space="preserve">
+    <value>The beginning of the "</value>
+  </data>
+  <data name="cmdFileErrorBeginSectionXInEnd2" xml:space="preserve">
+    <value>" is at the end of the file.</value>
+  </data>
+  <data name="cmdFileSectionXNotFound" xml:space="preserve">
+    <value>In the command list file could not find "</value>
+  </data>
+  <data name="cmdIncorrectFile" xml:space="preserve">
+    <value>Command list file is not created correctly.</value>
+  </data>
+  <data name="cmdIncorrectFileInfo" xml:space="preserve">
+    <value>The program cannot be started because the command list file is not created correctly. You can fix the errors in the file and run the program again!</value>
+  </data>
+  <data name="closeFileButton" xml:space="preserve">
+    <value>Close</value>
+  </data>
+  <data name="closeFileButtonToolTip" xml:space="preserve">
+    <value>Close File (Ctrl+W)</value>
+  </data>
+  <data name="commandDescriptionLabel" xml:space="preserve">
+    <value>Description of the selected command</value>
+  </data>
+  <data name="commandsListLabel" xml:space="preserve">
+    <value>Available commands</value>
+  </data>
+  <data name="filePanel" xml:space="preserve">
+    <value>File</value>
+  </data>
+  <data name="insertRibbonTab" xml:space="preserve">
+    <value>Insert</value>
+  </data>
+  <data name="insertRibbonTabToolTip" xml:space="preserve">
+    <value>Insert (Alt+2)</value>
+  </data>
+  <data name="mainRibbonTab" xml:space="preserve">
+    <value>Main</value>
+  </data>
+  <data name="mainRibbonTabToolTip" xml:space="preserve">
+    <value>Main (Alt+1)</value>
+  </data>
+  <data name="newFileButton" xml:space="preserve">
+    <value>New</value>
+  </data>
+  <data name="newFileButtonToolTip" xml:space="preserve">
+    <value>New File (Ctrl+N)</value>
+  </data>
+  <data name="openFileButton" xml:space="preserve">
+    <value>Open</value>
+  </data>
+  <data name="openFileButtonToolTip" xml:space="preserve">
+    <value>Open File (Ctrl+O)</value>
+  </data>
+  <data name="saveAsFileButton" xml:space="preserve">
+    <value>Save As</value>
+  </data>
+  <data name="saveAsFileButtonToolTip" xml:space="preserve">
+    <value>Save As (Ctrl+Shift+S)</value>
+  </data>
+  <data name="saveFileButton" xml:space="preserve">
+    <value>Save</value>
+  </data>
+  <data name="saveFileButtonToolTip" xml:space="preserve">
+    <value>Save File (Ctrl+S)</value>
+  </data>
+  <data name="searchPanel" xml:space="preserve">
+    <value>Search (Ctrl+F)</value>
+  </data>
+  <data name="searchTextBoxText" xml:space="preserve">
+    <value>Search</value>
+  </data>
+  <data name="settingsButton" xml:space="preserve">
+    <value>Settings</value>
+  </data>
+  <data name="settingsButtonToolTip" xml:space="preserve">
+    <value>Settings</value>
+  </data>
+  <data name="settingsUSLanguageInfo" xml:space="preserve">
+    <value>The interface language will change after the program is restarted.</value>
+  </data>
+  <data name="settingsUSLanguageLabel" xml:space="preserve">
+    <value>Language:</value>
+  </data>
+  <data name="treeViewCustomize" xml:space="preserve">
+    <value>Customize</value>
+  </data>
+  <data name="treeViewLanguage" xml:space="preserve">
+    <value>Language</value>
+  </data>
+  <data name="treeViewSelectLanguage" xml:space="preserve">
+    <value>Select Language</value>
+  </data>
+</root>

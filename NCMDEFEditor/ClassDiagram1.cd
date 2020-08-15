@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="NCMDEFEditor.Command" Collapsed="true">
+    <Position X="11" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAQAAAAAAAAAAAAAAEAACAA=</HashCode>
+      <FileName>Command.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NCMDEFEditor.CommandsOfSections" Collapsed="true">
+    <Position X="12.75" Y="3.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAgAAAAAAAEAAAAAEQAAAAAgAAAA=</HashCode>
+      <FileName>CommandsOfSections.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NCMDEFEditor.LoadCommands" Collapsed="true">
+    <Position X="12.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAAAAAAQAAAAAAAAAAKAAAAQAAAA=</HashCode>
+      <FileName>LoadCommands.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NCMDEFEditor.MainForm" Collapsed="true">
+    <Position X="12.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gBAAkDaSYiMLAGAAAEDYSE2idAbkMR8wAGVSlRoKBCI=</HashCode>
+      <FileName>MainForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NCMDEFEditor.Program" Collapsed="true">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NCMDEFEditor.ReadFile" Collapsed="true">
+    <Position X="11" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAABAIAAAgAAAAAQACAAIAAAAAKAAAAAAABA=</HashCode>
+      <FileName>ReadFile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NCMDEFEditor.SaveFile" Collapsed="true">
+    <Position X="12.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAQIAAQAAAAQgAAAAQACAAAABAABAAAA=</HashCode>
+      <FileName>SaveFile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NCMDEFEditor.SectionGeneral" Collapsed="true">
+    <Position X="13" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Sections.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NCMDEFEditor.SectionWordReplacement" Collapsed="true">
+    <Position X="11" Y="7" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAEA=</HashCode>
+      <FileName>Sections.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NCMDEFEditor.SectionWordDefinition" Collapsed="true">
+    <Position X="13.25" Y="7" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAACAA=</HashCode>
+      <FileName>Sections.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NCMDEFEditor.SectionFunctionDefinition" Collapsed="true">
+    <Position X="11" Y="7.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAACAAAAAAAAAA=</HashCode>
+      <FileName>Sections.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NCMDEFEditor.SectionMiscFunctionDefinition" Collapsed="true">
+    <Position X="13.5" Y="8" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAACAAAAAAAAAA=</HashCode>
+      <FileName>Sections.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NCMDEFEditor.SectionOthers" Collapsed="true">
+    <Position X="11" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAgAAAAAAA=</HashCode>
+      <FileName>Sections.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NCMDEFEditor.SectionsData" Collapsed="true">
+    <Position X="11" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAgAAAAAAAEAAAAAEQAAAAAgAAAA=</HashCode>
+      <FileName>SectionsData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NCMDEFEditor.SettingsForm" Collapsed="true">
+    <Position X="11" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAQAAAAACAIAAAAAACBAAACAAAIQAAAAAAAAAAAACA=</HashCode>
+      <FileName>SettingsForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NCMDEFEditor.settingsUC" Collapsed="true">
+    <Position X="13" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAQAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>settingsUC.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NCMDEFEditor.Properties.Resources" Collapsed="true">
+    <Position X="11" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NCMDEFEditor.Properties.Settings" Collapsed="true">
+    <Position X="11" Y="2.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAAAAAAAIAAAAAABAAAAAAAAAABAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NCMDEFEditor.Resources.Res" Collapsed="true">
+    <Position X="12.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>UGQBaAAAJgsAZEhCAAsVEAQgJZBoEwAgICgCASUDAck=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
